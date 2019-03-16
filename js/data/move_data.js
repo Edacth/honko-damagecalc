@@ -31,6 +31,10 @@ var MOVES_RBY = {
 		bp: 15,
 		type: 'Normal'
 	},
+	'Grubbin fondle': {
+		bp: 69,
+		type: 'Bug'
+	},
 	'Blizzard': {
 		bp: 120,
 		type: 'Ice',
@@ -387,7 +391,7 @@ var MOVES_RBY = {
 		isSpread: true
 	},
 	'Swift': {
-		bp: 60,
+		bp: 50,
 		type: 'Normal',
 		category: 'Special',
 		isSpread: true
@@ -401,6 +405,18 @@ var MOVES_RBY = {
 		type: 'Normal',
 		category: 'Physical',
 		makesContact: true
+	},
+	'Pound': {
+		bp: 40,
+		type: 'Normal',
+		category: 'Physical',
+		makesContact: true
+	},
+	'Thunder Shock': {
+		bp: 40,
+		type: 'Electric',
+		category: 'Special',
+		hasSecondaryEffect: true
 	},
 	'Take Down': {
 		bp: 90,

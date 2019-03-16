@@ -1,6 +1,10 @@
 var SETDEX_SM = {
-	"Abomasnow": {
-		"PU Mixed Wallbreaker": {"level": 100, "evs": {"at": 4, "sp": 252, "sa": 252}, "nature": "Hasty", "ability": "Snow Warning", "item": "Life Orb", "moves": ["Blizzard", "Giga Drain", "Earthquake", "Ice Shard"]},
+	"Cade's Pokemon": {
+		"UU SubSeed": {"level": 100, "evs": {"sd": 252, "hp": 248, "sp": 8}, "nature": "Sassy", "ability": "Snow Warning", "item": "Leftovers", "moves": ["Substitute", "Leech Seed", "Blizzard", "Wood Hammer"]}
+	},
+
+	"Obomasnow": {
+		"Jack's Abomasnow": {"level": 69, "evs": {"at": 69, "sp": 69, "sa": 69}, "nature": "Hasty", "ability": "Snow Warning", "item": "Life Orb", "moves": ["Thunder", "Giga Drain", "Earthquake", "Ice Shard"]},
 		"PU Choice Scarf": {"level": 100, "evs": {"at": 4, "sp": 252, "sa": 252}, "nature": "Naive", "ability": "Snow Warning", "item": "Choice Scarf", "moves": ["Blizzard", "Giga Drain", "Focus Blast", "Earthquake"]},
 		"PU Swords Dance": {"level": 100, "evs": {"at": 252, "sp": 252, "sa": 4}, "nature": "Jolly", "ability": "Snow Warning", "item": "Grassium Z", "moves": ["Swords Dance", "Wood Hammer", "Ice Shard", "Earthquake"]},
 		"RU Mixed Attacker": {"level": 100, "evs": {"at": 92, "sp": 164, "sa": 252}, "nature": "Rash", "ability": "Soundproof", "item": "Abomasite", "moves": ["Blizzard", "Wood Hammer", "Ice Shard", "Focus Blast"]},
