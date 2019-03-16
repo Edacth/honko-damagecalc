@@ -406,6 +406,12 @@ var MOVES_RBY = {
 		category: 'Physical',
 		makesContact: true
 	},
+	'Scratch': {
+		bp: 35,
+		type: 'Normal',
+		category: 'Physical',
+		makesContact: true
+	},
 	'Pound': {
 		bp: 40,
 		type: 'Normal',
