@@ -54,6 +54,11 @@ $("#exportR").click(function () {
 	ExportPokemon($("#p2"));
 });
 
+$("#import").click(function () {
+	var pokes = document.getElementsByClassName("import-team-text")[0].value;
+	addSets(pokes);
+});
+
 function serialize(array, separator) {
 	var text = "";
 	for (var i = 0; i < array.length; i++) {
